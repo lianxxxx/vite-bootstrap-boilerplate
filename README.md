@@ -1,4 +1,4 @@
-# Frontend Mentor Bootstrap Manage Landing Page
+# Vite + Bootstrap Boilerplate
 
 ## Getting Started 🚀
 
@@ -24,6 +24,6 @@ npm run dev
 
 Your project should now be running locally, and you’re ready to go! 🌟
 
----
+
 
 
